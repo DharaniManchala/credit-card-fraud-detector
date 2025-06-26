@@ -1,0 +1,6 @@
+[theme]
+primaryColor="#0E76A8"               # Nice professional blue
+backgroundColor="#FFFFFF"            # Clean white background
+secondaryBackgroundColor="#F0F2F6"   # Light gray section background
+textColor="#000000"                  # Black text for readability
+font="sans serif"                    # Clean font

@@ -1,0 +1,25 @@
+# Ignore sensitive credentials
+.secrets.toml
+secrets.toml
+
+# Ignore datasets
+*.csv
+
+
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+.streamlit/secrets.toml
+serviceAccountKey.json
