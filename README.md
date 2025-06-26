@@ -94,7 +94,7 @@ credit-card-fraud-detector/
 
 👤 Author
 Dharani Manchala
-📧 dharanimanchala@example.com
+📧 dharanimanchala48@gmail.com
 🔗 GitHub: DharaniManchala
 🌐 Live App
 
