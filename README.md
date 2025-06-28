@@ -1,6 +1,10 @@
+![GitHub stars](https://img.shields.io/github/stars/DharaniManchala/credit-card-fraud-detector?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/DharaniManchala/credit-card-fraud-detector)
+
 # 💳 Credit Card Fraud Detection App
 
-This is a smart Streamlit web app that detects fraudulent credit card transactions using machine learning. It’s simple, user-friendly, and offers fraud pattern insights through beautiful visualizations.
+An interactive and production-ready fraud detection system built with Streamlit and machine learning. It allows users to upload transaction data, identify suspicious activity, and gain actionable insights through data visualizations, all within a secure user-authenticated interface.
+It’s simple, user-friendly, and offers fraud pattern insights through beautiful visualizations.
 
 🌐 **[Live App Deployment](https://dharanimanchala-credit-card-fraud-detector-app-oqe9n0.streamlit.app/)**
 
@@ -16,10 +20,12 @@ This is a smart Streamlit web app that detects fraudulent credit card transactio
 - 📄 Export Results: Download CSV + PDF Report
 - 🕒 Previous uploads history view
 - 🧹 Clear all history with one click
+- 🔍 Manual Entry Fraud Prediction
+- 📊 Interactive Dashboard
+- 🤖 Model Comparison Section
 
 ---
-
-## 📸 Screenshots
+## 🖼️ Feature Screenshots
 
 | Home Page | File Upload |
 |-----------|-------------|
@@ -33,9 +39,29 @@ This is a smart Streamlit web app that detects fraudulent credit card transactio
 |---------------------|----------------------|
 | ![](Screenshots/Feature_Correlation.png) | ![](Screenshots/Hourly_Fraud_Pattern.png) |
 
-| Log Amount Distribution |
-|--------------------------|
-<td><img src="Screenshots/Log_Amount_Distribution.png" width="400"/></td>
+| Log Amount Distribution | Manual Prediction |
+|--------------------------|-------------------|
+| ![](Screenshots/Log_Amount_Distribution.png) | ![](Screenshots/manualprediction.png) |
+
+| Random Forest Visualization | Model Comparison |
+|------------------------------|------------------|
+| ![](Screenshots/randomforest.png) | ![](Screenshots/comparemodels.png) |
+
+| Interactive Dashboard |
+|------------------------|
+| Interactive Dashboard |
+|------------------------|
+| <img src="Screenshots/Interactivedashboard.png" width="400"/> |
+
+
+
+
+## 🌍 Real-World Use Case
+
+Credit card fraud is a critical issue for financial institutions. This app demonstrates how machine learning models can be integrated into user-facing tools to detect and prevent fraud in real-time. It’s ideal for banks, fintech startups, and fraud analytics demos.
+
+
+
 
 
 ---
@@ -85,6 +111,28 @@ credit-card-fraud-detector/
 │   ├── Feature_Correlation.png
 │   ├── Hourly_Fraud_Pattern.png
 │   └── Log_Amount_Distribution.png
+
+
+
+
+## 👨‍💻 What I Implemented
+
+- Designed a full-stack fraud detection system using Streamlit
+- Trained and integrated a machine learning model using scikit-learn
+- Built secure user authentication from scratch
+- Developed dynamic dashboards and custom visualizations
+- Enabled real-time manual fraud prediction with adjustable thresholds
+- Created automated PDF reporting and result sharing features
+- Deployed the app using Streamlit Cloud
+
+
+## ❓ Why This Project
+
+This project demonstrates my ability to:
+- Solve real-world problems with data science
+- Build end-to-end applications from model training to deployment
+- Implement clean, secure, and scalable code
+- Focus on user experience and usability
 
 
 
