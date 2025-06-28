@@ -8,3 +8,4 @@ imblearn
 joblib
 fpdf
 shap
+plotly
