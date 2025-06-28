@@ -7,3 +7,4 @@ seaborn
 imblearn
 joblib
 fpdf
+shap
